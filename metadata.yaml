@@ -1,0 +1,27 @@
+_repo: Voyages-en-Siberie_52431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kubalski, N. A. (Nicolas A.)
+    alias: Kubalski, Nicolas A.
+    birthdate: 1794
+    deathdate: 1875
+    gutenberg_agent_id: '46852'
+    url: http://www.gutenberg.org/2009/agents/46852
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2016-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52431'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kubalski, N. A. (Nicolas A.), 1794-1875 -- Travel'
+- !lcsh 'Siberia (Russia) -- Description and travel'
+- !lcc 'DK'
+- GITenberg
+title: Voyages en Sibérie
+url: http://www.gutenberg.org/ebooks/52431
